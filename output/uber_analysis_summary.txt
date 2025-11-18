@@ -1,0 +1,24 @@
+
+
+Uber Trip Analysis Summary (2015)
+---------------------------------
+Total trips: 4130230
+Busiest day of month: 14
+Busiest weekday: Saturday
+Busiest month: 2
+
+Top 5 Bases by Total Trips:
+dispatching_base_number
+B02764    1914449
+B02617     725025
+B02682     662509
+B02598     540791
+B02765     193670
+
+Correlation between Active Vehicles and Trips: 0.98
+
+Key Insights:
+- Busiest bases and peak periods identified.
+- Positive correlation between active vehicles and trips.
+- Weekday and monthly patterns reveal operational peaks.
+- Certain bases show high efficiency (more trips with fewer vehicles).
